@@ -26,15 +26,15 @@ Examples:
 ```
 drawPattern(15 , "syrian open source 😎, oak package")
 ```
-![logo](assets/example1.png)
+![example1](assets/example1.png)
 ```
 drawPattern(30 , "syrian open source 😎, oak package")
 ```
-![logo](assets/example2.png)
+![example2](assets/example2.png)
 ```
 drawPattern(45 , "syrian open source 😎, oak package")
 ```
-![logo](assets/example3.png)
+![example3](assets/example3.png)
 
 Changelog
 ---------
