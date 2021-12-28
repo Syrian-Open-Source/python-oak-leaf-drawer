@@ -13,12 +13,12 @@ LONG_DESCRIPTION = 'Python module depending on matplotlib and angle to draw oak 
 
 setup(
     name="python-oak-leaf-drawer",
-    version="1.0.0",
+    version=VERSION,
     author="Karam Mustafa",
     author_email="karam2mustafa@gmail.com",
-    description="Python module depending on matplotlib to draw oak leaf.",
-    long_description_content_type="Python module depending on matplotlib and angle to draw oak leaf wih specific title.",
-    long_description="Python module depending on matplotlib and angle to draw oak leaf wih specific title.",
+    description=DESCRIPTION,
+    long_description_content_type="text/markdown",
+    long_description=LONG_DESCRIPTION,
     packages=find_packages(),
     install_requires=['matplotlib'],
     keywords=['python', 'oak', 'oak-leaf', 'python-packages', 'matplotib'],
