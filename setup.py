@@ -7,12 +7,12 @@ here = os.path.abspath(os.path.dirname(__file__))
 with codecs.open(os.path.join(here, "README.md"), encoding="utf-8") as fh:
     long_description = "\n" + fh.read()
 
-VERSION = '1.0.0'
+VERSION = '1.0.1'
 DESCRIPTION = 'Python module depending on matplotlib to draw oak leaf.'
 LONG_DESCRIPTION = 'Python module depending on matplotlib and angle to draw oak leaf wih specific title.'
 
 setup(
-    name="python-oak-leaf-drawer",
+    name="python_oak_leaf_drawer",
     version=VERSION,
     author="Karam Mustafa",
     author_email="karam2mustafa@gmail.com",
