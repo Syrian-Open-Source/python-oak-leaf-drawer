@@ -1,3 +1,5 @@
+![logo](assets/logo.png)
+
 Python oak leaf drawer
 ----------------------
 Python package making you able to draw OAK Leaf depending on an angle.
@@ -42,7 +44,7 @@ Please see the [CHANGELOG](https://github.com/syrian-open-source/python-oak-leaf
 
 Security
 --------
-If you discover any security related issues, please email them first to "your email", 
+If you discover any security related issues, please email them first to "karam2mustafa@gmail.com", 
 if we do not fix it within a short period of time please open a new issue describing your problem. 
 
 Credits
