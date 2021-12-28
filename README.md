@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/karam-mustafa/python-oak-leaf-drawer/blob/main/assets/logo.png" />
+  <img src="https://github.com/Syrian-Open-Source/python-oak-leaf-drawer/blob/main/assets/logo.png" />
 </p>
 
 Python oak leaf drawer
