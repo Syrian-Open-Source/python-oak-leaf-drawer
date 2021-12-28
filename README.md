@@ -1,5 +1,3 @@
-![logo](assets/logo.png)
-
 Python oak leaf drawer
 ----------------------
 Python package making you able to draw OAK Leaf depending on an angle.
@@ -15,11 +13,28 @@ pip install python-oak-leaf-drawer
 
 Usage
 -----------
+```
+from python_oak_leaf_drawer.oak import drawPattern
 
+# The first parameter is the rotation angle.
+# The second parameter is the title.
+drawPattern(15 , "syrian open source 😎, oak package")
 
+```
 Examples:
 ----------
-
+```
+drawPattern(15 , "syrian open source 😎, oak package")
+```
+![logo](assets/example1.png)
+```
+drawPattern(30 , "syrian open source 😎, oak package")
+```
+![logo](assets/example2.png)
+```
+drawPattern(45 , "syrian open source 😎, oak package")
+```
+![logo](assets/example3.png)
 
 Changelog
 ---------
